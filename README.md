@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub
 
-- 🌱 I've been passionate programming and InfoSec since 2019 
+- 🌱 I've been passionate for programming and InfoSec since 2019 
 
 - 📝 I am experienced in Python and currently learning java
 
