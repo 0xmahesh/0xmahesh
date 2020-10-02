@@ -4,9 +4,7 @@
 
 - 🌱 I've been passionate programming and InfoSec since 2019 
 
-- 📝 I am experienced in Python and currently learning Rust
-
-- 💼 At the moment, seeking internships to get more experience in programming
+- 📝 I am experienced in Python and currently learning java
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=0xmahesh)](https://github.com/anuraghazra/github-readme-stats)
 
