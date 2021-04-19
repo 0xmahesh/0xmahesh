@@ -10,4 +10,4 @@
 
 ## Connect with me
 
-[![Instagram Badge](https://img.shields.io/badge/-0xmahesh-blue?style=social&logo=Instagram&link=https://instagram.com/0xmahesh)](https://instagram.com/0xmahesh) [![Twitter Badge](https://img.shields.io/badge/-0xmahesha-blue?style=social&logo=Twitter&link=https://twitter.com/0xmahesha)](https://twitter.com/0xmahesha) ![GitHub Badge](https://img.shields.io/badge/-0xmahesh-blue?style=social&logo=ProtonMail)
+[![Twitter Badge](https://img.shields.io/badge/-0xmahesha-blue?style=social&logo=Twitter&link=https://twitter.com/0xmahesha)](https://twitter.com/0xmahesha) ![GitHub Badge](https://img.shields.io/badge/-0xmahesh-blue?style=social&logo=ProtonMail)
