@@ -10,4 +10,4 @@
 
 ## Connect with me
 
-[![Twitter Badge](https://img.shields.io/badge/-0xmahesha-blue?style=social&logo=Twitter&link=https://twitter.com/0xmahesha)](https://twitter.com/0xmahesha) ![GitHub Badge](https://img.shields.io/badge/-0xmahesh-blue?style=social&logo=ProtonMail)
+[![Twitter Badge](https://img.shields.io/badge/-0xmahesha-blue?style=social&logo=Twitter&link=https://twitter.com/coding_con)](https://twitter.com/coding_con) ![GitHub Badge](https://img.shields.io/badge/-kasabemahesh-blue?style=social&logo=ProtonMail)
