@@ -6,7 +6,7 @@
 
 - 📝 I am experienced in Python and currently learning java
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=0xmahesh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=kasbemahesh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 
